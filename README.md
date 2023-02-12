@@ -1,6 +1,6 @@
 ### Hello there!
 
-My name is Stefan Scholz and I'm an Industrial Engineer from Bayreuth, Germany. I'm currently doing further training in the field of data science. My main focus is on Python and SQL.
+My name is Stefan Scholz and I'm an Industrial Engineer from Bayreuth, Germany. I'm currently doing further training in the field of Data Science. My main focus is on Python and SQL.
 
 #### Languages and Tools:
 
