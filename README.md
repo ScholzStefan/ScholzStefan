@@ -11,6 +11,7 @@ Projects with practical benifits in Industrial Engineering will follow here shor
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/VBA-%2300843e.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scholzstefan&layout=compact"/>
