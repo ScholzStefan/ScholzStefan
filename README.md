@@ -2,8 +2,6 @@
 
 My name is Stefan Scholz and I'm an Industrial Engineer from Wertheim, Germany. I'm currently educate myself in the field of Data Science. My main focus is on Python and SQL. At the moment I'm trying out business intelligence services like Microsoft Power BI.
 
-Projects with practical benifits in Industrial Engineering will follow here shortly.
-
 #### Languages and Tools:
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
