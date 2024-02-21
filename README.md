@@ -1,6 +1,6 @@
 ### Hello there!
 
-My name is Stefan Scholz and I'm an Industrial Engineer from Wertheim, Germany. I'm currently educate myself in the field of Data Science. My main focus is on Python and SQL. At the moment I'm trying out business intelligence services like Microsoft Power BI.
+My name is Stefan Scholz and I'm an Industrial Engineer from Görlitz, Germany. I'm currently educate myself in the field of Data Science. My main focus is on Python and SQL. At the moment I'm trying out business intelligence services like Microsoft Power BI.
 
 #### Languages and Tools:
 
